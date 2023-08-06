@@ -1,0 +1,30 @@
+
+.btn {
+    padding: 30px 56px;
+    margin-bottom: 2px;
+    background: var(--color);
+    cursor: pointer
+    ; 
+}
+
+btn-1--color:red;
+.btn-2--color:green;
+.btn-3--color:blue;
+.btn-4--color:yellow;
+.btn-5--color:brown;
+.btn-6--color:orange;
+.btn-7--color:purple;
+.btn-5--color:black;
+
+
+
+
+
+  #myElement {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    display: none; /* Começa oculto */
+
+
+    
